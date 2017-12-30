@@ -1,0 +1,14 @@
+{
+    "name": "mars/my-composer",
+    "description": "Learning Install GitHub Project By Composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mars Hung",
+            "email": "tfaredxj@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
