@@ -1,7 +1,8 @@
 {
-    "name": "mars/my-composer",
+    "name": "marshung/my-composer",
     "description": "Learning Install GitHub Project By Composer",
-    "type": "project",
+    "homepage": "https://github.com/marshung24/my-composer",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
