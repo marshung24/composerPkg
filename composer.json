@@ -10,6 +10,9 @@
             "email": "tfaredxj@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "marshung\\": "src" }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
