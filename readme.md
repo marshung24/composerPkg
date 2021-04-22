@@ -169,3 +169,6 @@ $ git push --tags
 # 記錄
 - 20180414: MarsHung 建立專案
 - 20180415: MarsHung 完成初版
+- 20210423: MarsHung 
+  - 整理程式
+  - 增加從private repo安裝composer方法
